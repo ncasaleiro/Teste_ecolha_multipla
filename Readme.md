@@ -21,7 +21,7 @@ O projeto está organizado da seguinte forma:
 
 ### Configuração
 
-Antes de utilizar o projeto, é necessário configurar o arquivo `config.json` localizado na pasta `src/`. Aqui está um exemplo de configuração e uma explicação de cada campo:
+Antes de utilizar o projeto, é necessário configurar o arquivo `config.json` localizado na pasta `conf/`. Aqui está um exemplo de configuração e uma explicação de cada campo:
 
 ```json
 {
@@ -71,3 +71,42 @@ Antes de utilizar o projeto, é necessário configurar o arquivo `config.json` l
 ---
 
 ## Professor
+
+### Estrutura de Pastas
+
+O projeto está organizado da seguinte forma:
+
+- **`conf/`**: Contém o ficheiro de configurações.
+- **`logs/`**:Armazena todas as insteraçoes com o utilizador.
+
+### Configuração
+
+Antes de utilizar o projeto, é necessário configurar o arquivo `config.json` localizado na pasta `conf/`. Aqui está um exemplo de configuração e uma explicação de cada campo:
+
+```json
+{
+  "ResultFileName":"TesteMatematicaNCasaleiro",
+  "num_questions": 6,
+  "answers": {
+    "1": [4],
+    "2": [40],
+    "3": [400],
+    "4": [4000],
+    "5": [40000],
+    "6": [40]
+  },
+  "Broker": {
+    "url":"test.mosquitto.org",
+    "port":1883
+  }
+}
+```
+
+- **`ResultFileName`**: Nome do ficheiro .csv onde fica o resultado/classifiação de cada teste.
+- **`num_questions`** : Número total de perguntas.
+* **`answers`**: Respostas correctas de cada pergunta.
+* **`Broker`**: Configurações do serviço de broker.
+<br/>
+<br/>
+---
+

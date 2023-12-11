@@ -13,10 +13,10 @@
     "images":{
         "1": "img/bus-magic-school-bus2.gif",
         "2": "img/homer.gif",
-        "3": "img/bus-magic-school-bus2.gif",
+        "3": "img/125.gif",
         "4": "img/homer.gif",
         "5": "img/bus-magic-school-bus2.gif",
-        "6": "img/homer.gif"
+        "6": "img/125.gif"
     },
     "answers": {
       "1": [3, 4, 5, 6],

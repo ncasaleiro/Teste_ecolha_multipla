@@ -6936,4 +6936,137 @@
   "FinalAnswer": true,
   "Timestamp": 1702135964,
   "MAC_Address": "03:06:0c:18:30:61"
+}{
+  "Question": 1,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290922,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290923,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 2,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290924,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 2,
+  "Response": 40,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290926,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 3,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290926,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 3,
+  "Response": 300,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290935,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 4,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290935,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 4,
+  "Response": 4000,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290937,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 5,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290940,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 5,
+  "Response": 40000,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290942,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 6,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290942,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Question": 6,
+  "Response": 40,
+  "Name": [
+    "Nunno"
+  ],
+  "Timestamp": 1702290945,
+  "MAC_Address": "0a:14:29:52:a4:48"
+}{
+  "Name": [
+    "Nunno"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "A fila tem quantos carros?"
+  ],
+  "Answer_2": [
+    40
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": [
+    300
+  ],
+  "Question_4": [
+    "O João desenhou um triangulo "
+  ],
+  "Answer_4": [
+    4000
+  ],
+  "Question_5": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_5": [
+    40000
+  ],
+  "Question_6": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_6": [
+    40
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702290946,
+  "MAC_Address": "0a:14:29:52:a4:48"
 }
