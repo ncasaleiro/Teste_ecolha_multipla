@@ -1,0 +1,357 @@
+{
+  "Question": 1,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333533,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333534,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333535,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 40,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333536,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333537,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 400,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333544,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333544,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Response": 4000,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333546,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333547,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Response": 40000,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333548,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333549,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Response": 40,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333551,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "jose"
+  ],
+  "Timestamp": 1702333552,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "jose"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "A fila tem quantos carros?"
+  ],
+  "Answer_2": [
+    40
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": [
+    400
+  ],
+  "Question_4": [
+    "O João desenhou um triangulo "
+  ],
+  "Answer_4": [
+    4000
+  ],
+  "Question_5": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_5": [
+    40000
+  ],
+  "Question_6": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_6": [
+    40
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702333554,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333638,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333640,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333641,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 40,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333644,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333644,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 400,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333646,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333647,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Response": 4000,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333648,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333649,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Response": 40000,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333650,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333650,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Response": 40,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702333652,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "Nuno"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "A fila tem quantos carros?"
+  ],
+  "Answer_2": [
+    40
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": [
+    400
+  ],
+  "Question_4": [
+    "O João desenhou um triangulo "
+  ],
+  "Answer_4": [
+    4000
+  ],
+  "Question_5": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_5": [
+    40000
+  ],
+  "Question_6": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_6": [
+    40
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702333653,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333679,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333681,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333681,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333684,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333690,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333693,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Name": [
+    "maria"
+  ],
+  "Timestamp": 1702333694,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "maria"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "A fila tem quantos carros?"
+  ],
+  "Answer_2": null,
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": null,
+  "Question_4": [
+    "O João desenhou um triangulo "
+  ],
+  "Answer_4": null,
+  "Question_5": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_5": null,
+  "Question_6": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_6": null,
+  "FinalAnswer": true,
+  "Timestamp": 1702333696,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}

@@ -1,0 +1,34 @@
+{
+    "AppName":"Ficha MAT Nuno Casaleiro",
+    "Title":"FICHA DE MATEMÁTICA",
+    "num_questions": 6,
+    "questions":{
+        "1": "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n",
+        "2": "A fila tem quantos carros?",
+        "3": "A Maria tem 2 notas de 10 euros",
+        "4": "O João desenhou um triangulo ",
+        "5": "Diz qual o valor em falta na sequencia",
+        "6": "Diz qual o valor em falta na sequencia"
+    },
+    "images":{
+        "1": "img/bus-magic-school-bus2.gif",
+        "2": "img/homer.gif",
+        "3": "img/125.gif",
+        "4": "img/homer.gif",
+        "5": "img/bus-magic-school-bus2.gif",
+        "6": "img/125.gif"
+    },
+    "answers": {
+      "1": [3, 4, 5, 6],
+      "2": [30, 40, 50, 60],
+      "3": [300, 400, 500, 600],
+      "4": [3000, 4000, 5000, 6000],
+      "5": [30000, 40000, 50000, 60000],
+      "6": [30, 40, 50, 60]
+    },
+    "Broker": {
+      "url":"test.mosquitto.org",
+      "port":1883
+    }
+  }
+  

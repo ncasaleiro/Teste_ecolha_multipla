@@ -1,0 +1,16 @@
+{
+  "ResultFileName":"TesteMatematicaNCasaleiro",
+  "num_questions": 6,
+  "answers": {
+    "1": [4],
+    "2": [40],
+    "3": [400],
+    "4": [4000],
+    "5": [40000],
+    "6": [40]
+  },
+  "Broker": {
+    "url":"test.mosquitto.org",
+    "port":1883
+  }
+}

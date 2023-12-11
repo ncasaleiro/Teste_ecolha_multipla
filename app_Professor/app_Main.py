@@ -6,7 +6,7 @@ from datetime import datetime
 import paho.mqtt.client as mqtt
 
 # Carregar configurações do arquivo JSON
-with open("conf/config.json", "r") as config_file:
+with open("conf/config.json", "r", encoding="utf-8") as config_file:
     config_data = json.load(config_file)
 
 num_questions = config_data["num_questions"]
@@ -83,7 +83,7 @@ def on_message_result(client, userdata, msg):
         Name=data['Name'][0]
         current_time = time.time()
         current_datetime = datetime.fromtimestamp(current_time)
-        date = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+        date = current_datetime.strftime("%Y-%m-%d__%H_%M_%S")
         # Comparar as respostas com as soluções
         questions=[]
         for i in range(1, num_questions+1):

@@ -7,8 +7,11 @@ import paho.mqtt.client as mqtt
 from interface import window , sg
 
 
+#gerar exe
+#pyinstaller --onefile app_Main.py
+
 # Carregar configurações do arquivo JSON
-with open("conf/config.json", "r") as config_file:
+with open("conf/config.json", "r", encoding="utf-8") as config_file:
     config_data = json.load(config_file)
 
 num_questions = config_data["num_questions"]
