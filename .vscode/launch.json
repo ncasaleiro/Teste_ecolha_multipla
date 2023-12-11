@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Prof App",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app_Professor/app_Main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/app_Professor"  // Defina o diretório de trabalho para app_Professor
+        },
+        {
+            "name": "Python: Student App",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app_Alunos/app_Main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/app_Alunos"  // Defina o diretório de trabalho para app_Alunos
+        }
+    ]
+}
