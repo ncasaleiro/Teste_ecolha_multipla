@@ -1,10 +1,10 @@
 {
   "ResultFileName":"TesteMatematicaNCasaleiro",
-  "num_questions": 6,
+  "num_questions": 3,
   "answers": {
     "1": [4],
-    "2": [40],
-    "3": [400],
+    "2": [210],
+    "3": [33],
     "4": [4000],
     "5": [40000],
     "6": [40]

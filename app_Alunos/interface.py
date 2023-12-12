@@ -15,3 +15,4 @@ layout = [
 ]
 
 window = sg.Window('', layout, finalize=True )
+window.Maximize()

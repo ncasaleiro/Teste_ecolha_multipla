@@ -354,4 +354,173 @@
   "FinalAnswer": true,
   "Timestamp": 1702333696,
   "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702346151,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702346154,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "Nuno"
+  ],
+  "Timestamp": 1702346166,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "NUno"
+  ],
+  "Timestamp": 1702348568,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "NUno"
+  ],
+  "Timestamp": 1702348571,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "NUno"
+  ],
+  "Timestamp": 1702348571,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 210,
+  "Name": [
+    "NUno"
+  ],
+  "Timestamp": 1702348573,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "NUno"
+  ],
+  "Timestamp": 1702348574,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 33,
+  "Name": [
+    "NUno"
+  ],
+  "Timestamp": 1702348576,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "NUno"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "Dos números abaixo escolhe o unico que mantem a ordem crescente."
+  ],
+  "Answer_2": [
+    210
+  ],
+  "Question_3": [
+    "A Homer encontrou 2 notas de 5 euros, por isso vai tão contente até casa. \n Ele já 1 nota de 20 euros e 3 modedas de 1 euro.\n Com quanto dinheiro ficou o Homer?"
+  ],
+  "Answer_3": [
+    33
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702348588,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348831,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348836,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348839,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 210,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348840,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348843,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 33,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348845,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "JOSE"
+  ],
+  "Timestamp": 1702348847,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "JOSE"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "Dos números abaixo escolhe o unico que mantem a ordem crescente."
+  ],
+  "Answer_2": [
+    210
+  ],
+  "Question_3": [
+    "A Homer encontrou 2 notas de 5 euros, por isso vai tão contente até casa. \n Ele já 1 nota de 20 euros e 3 modedas de 1 euro.\n Com quanto dinheiro ficou o Homer?"
+  ],
+  "Answer_3": [
+    33
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702348849,
+  "MAC_Address": "0a:14:29:53:a6:4c"
 }

@@ -2,6 +2,7 @@ import threading
 import time
 import json
 import uuid
+import os
 import sys
 import paho.mqtt.client as mqtt
 from interface import window , sg
@@ -37,7 +38,9 @@ question = 0
 window.TKroot.title(appName)
 window['-text-Title'].update(appTitle)
 
-     
+def is_gif_file(file_path):
+    _, file_extension = os.path.splitext(file_path)
+    return file_extension.lower() == '.gif'
 
 def salvar_log_json(dados, nome_arquivo='log/log.json'):
     global brokerPort, brokerURL
@@ -211,8 +214,12 @@ def main():
 
         if question ==0:
             window.Element('-image').UpdateAnimation(r'img/bus-magic-school-bus.gif',  time_between_frames= 150)
-        else:        
+        else:
+           if is_gif_file(images_load[str(question)] ):
             window.Element('-image').UpdateAnimation(images_load[str(question)],  time_between_frames= 150)
+           else:
+               window.Element('-image').Update(filename=images_load[str(question)])            
+               
 
 
 

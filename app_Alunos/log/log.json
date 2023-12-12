@@ -131,4 +131,425 @@
   "FinalAnswer": true,
   "Timestamp": 1702333294,
   "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340415,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340417,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340417,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 40,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340418,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340419,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 400,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340421,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340422,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 4,
+  "Response": 4000,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340424,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340424,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 5,
+  "Response": 40000,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340425,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340426,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 6,
+  "Response": 40,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340429,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Timestamp": 1702340430,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "Nuno Casaleiro"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "A fila tem quantos carros?"
+  ],
+  "Answer_2": [
+    40
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": [
+    400
+  ],
+  "Question_4": [
+    "O João desenhou um triangulo "
+  ],
+  "Answer_4": [
+    4000
+  ],
+  "Question_5": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_5": [
+    40000
+  ],
+  "Question_6": [
+    "Diz qual o valor em falta na sequencia"
+  ],
+  "Answer_6": [
+    40
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702340431,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346484,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346486,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346487,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 40,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346498,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 210,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346501,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346506,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 400,
+  "Name": [
+    "Nun"
+  ],
+  "Timestamp": 1702346508,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "Nun"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "Dos números abaixo escolhe o unico que mantem a ordem crescente."
+  ],
+  "Answer_2": [
+    210
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": [
+    400
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702346509,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "asd"
+  ],
+  "Timestamp": 1702346691,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "asd"
+  ],
+  "Timestamp": 1702346693,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "asd"
+  ],
+  "Timestamp": 1702346695,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "sad"
+  ],
+  "Timestamp": 1702346728,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "sad"
+  ],
+  "Timestamp": 1702346730,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "sad"
+  ],
+  "Timestamp": 1702346731,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 40,
+  "Name": [
+    "sad"
+  ],
+  "Timestamp": 1702346732,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "sadas"
+  ],
+  "Timestamp": 1702346733,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Response": 400,
+  "Name": [
+    "sadas"
+  ],
+  "Timestamp": 1702346735,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "sadas"
+  ],
+  "Timestamp": 1702346736,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "sadas"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "Dos números abaixo escolhe o unico que mantem a ordem crescente."
+  ],
+  "Answer_2": [
+    40
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": [
+    400
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702346738,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "as"
+  ],
+  "Timestamp": 1702346881,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "as"
+  ],
+  "Timestamp": 1702346884,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "as"
+  ],
+  "Timestamp": 1702346885,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "asd"
+  ],
+  "Timestamp": 1702346915,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "asd"
+  ],
+  "Timestamp": 1702346916,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "asd"
+  ],
+  "Timestamp": 1702346917,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Name": [
+    "cz"
+  ],
+  "Timestamp": 1702347006,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 1,
+  "Response": 4,
+  "Name": [
+    "cz"
+  ],
+  "Timestamp": 1702347008,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Name": [
+    "cz"
+  ],
+  "Timestamp": 1702347009,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 2,
+  "Response": 210,
+  "Name": [
+    "cz"
+  ],
+  "Timestamp": 1702347022,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Question": 3,
+  "Name": [
+    "cz"
+  ],
+  "Timestamp": 1702347023,
+  "MAC_Address": "0a:14:29:53:a6:4c"
+}{
+  "Name": [
+    "cz"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "Dos números abaixo escolhe o unico que mantem a ordem crescente."
+  ],
+  "Answer_2": [
+    210
+  ],
+  "Question_3": [
+    "A Maria tem 2 notas de 10 euros"
+  ],
+  "Answer_3": null,
+  "FinalAnswer": true,
+  "Timestamp": 1702348079,
+  "MAC_Address": "0a:14:29:53:a6:4c"
 }

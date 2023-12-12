@@ -1,0 +1,26 @@
+{
+  "Name": [
+    "Leonor Casaleiro"
+  ],
+  "Question_1": [
+    "A turma do 2A tem 24 alunos e vai fazer uma viagem à lua, claro que vai ter de ir num autocarro mágico.\n Mas há um problema, o autocarro tem apenas 6 lugares para passageiros.\n Quantas vezes vai o autocarro ter que repetir a viagem para levar toda a turma?\r\n"
+  ],
+  "Answer_1": [
+    4
+  ],
+  "Question_2": [
+    "Dos números abaixo escolhe o unico que mantem a ordem crescente."
+  ],
+  "Answer_2": [
+    210
+  ],
+  "Question_3": [
+    "A Homer encontrou 2 notas de 5 euros, por isso vai tão contente até casa. \n Ele já 1 nota de 20 euros e 3 modedas de 1 euro.\n Com quanto dinheiro ficou o Homer?"
+  ],
+  "Answer_3": [
+    33
+  ],
+  "FinalAnswer": true,
+  "Timestamp": 1702349594,
+  "MAC_Address": "55:aa:55:aa:55:aa"
+}
